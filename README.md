@@ -57,6 +57,21 @@ Researchers in the empirical category focus on probing the factors that influenc
 * Impact of Pretraining Term Frequencies on Few-Shot Reasoning (Razeghi et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2202.07206)
   ![](https://img.shields.io/badge/Findings_Of_EMNLP%202022-brown)
+* Large Language Models Struggle to Learn Long-Tail Knowledge (Kandpal et al., 2023).
+  [[Paper]](https://proceedings.mlr.press/v202/kandpal23a.html)
+  ![](https://img.shields.io/badge/PMLR%202023-brown)
+* Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression (Raventós et al., 2023).
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2e10b2c2e1aa4f8083c37dfe269873f8-Abstract-Conference.html)
+  ![](https://img.shields.io/badge/NeurIPS%202023-brown)
+* Data distributional properties drive emergent in-context learning in transformers. (Chan et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2205.05055)
+  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+* A Bayesian mixture model for term re-occurrence and burstiness (Sarkar et al., 2023).
+  [[Paper]](https://oro.open.ac.uk/5003/)
+  ![](https://img.shields.io/badge/CoNLL%200005-brown)
+
+  
+  
   
 
 ### Pre-training Model
