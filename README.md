@@ -68,7 +68,15 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
 * THE PRINCIPLE OF LEAST EFFORT (ZIPF et al., 1949).
   [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
-  ![](https://img.shields.io/badge/CoNLL%201949-brown)
+* Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (Yadlowsky et al., 2023).
+  [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
+* What can transformers learn in-context? a case study of simple function classes. (Garg et al., 2023).
+  [[Paper]](https://arxiv.org/abs/2208.01066)
+  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+* n-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2310.15916)
+  ![](https://img.shields.io/badge/Findings_Of_EMNLP%202023-brown)
+
 
   
   
