@@ -117,11 +117,6 @@ Researchers in the empirical category focus on probing the factors that influenc
 * What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
   [[Paper]](https://arxiv.org/abs/2101.06804)
   ![](https://img.shields.io/badge/DeeLIO%202022-brown)
-* What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
-  [[Paper]](https://arxiv.org/abs/2101.06804)
-  ![](https://img.shields.io/badge/DeeLIO%202022-brown)
-
-  
 
   
 
@@ -129,6 +124,29 @@ Researchers in the empirical category focus on probing the factors that influenc
 * Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (Min et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2202.12837)
   ![](https://img.shields.io/badge/EMNLP%202022-brown)
+* Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations (Yoo et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2205.12685)
+  ![](https://img.shields.io/badge/EMNLP%202022-brown)
+* Larger language models do in-context learning differently (Wei et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2303.03846)
+* In-Context Learning Learns Label Relationships but Is Not Conventional Learning (Kossen et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2307.12375)
+  ![](https://img.shields.io/badge/ICLR%202024-brown)
+* What In-Context Learning “Learns” In-Context: Disentangling Task Recognition and Task Learning (Pan et al., 2023).
+  [[Paper]](https://www.proquest.com/openview/6417558c5f0a0d6840ee9442822ab099/1?pq-origsite=gscholar&cbl=18750&diss=y)
+* Dual Operating Modes of In-Context Learning (Lin et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2402.18819)
+  ![](https://img.shields.io/badge/PMLR%202024-brown)
+* Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning (Tang et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2305.17256)
+  ![](https://img.shields.io/badge/Findings_Of_ACL%202023-brown)
+* Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations (Si et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2305.13299)
+  ![](https://img.shields.io/badge/ACL%202023-brown)
+* Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning (Si et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2305.14160)
+  ![](https://img.shields.io/badge/EMNLP%202023-brown)
+
 
 
 ## Citation
