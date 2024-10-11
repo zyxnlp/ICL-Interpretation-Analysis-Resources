@@ -51,6 +51,13 @@ Researchers in the empirical category focus on probing the factors that influenc
 * Understanding In-Context Learning via Supportive Pretraining Data (Han et al., 2023).
   [[Paper]](https://arxiv.org/abs/2306.15091)
   ![](https://img.shields.io/badge/ACL%202023-brown)
+* Mauve: Measuring the gap between neural text and human text using divergence frontiers (Pillutla et al., 2023).
+  [[Paper]](https://arxiv.org/abs/2102.01454)
+  ![](https://img.shields.io/badge/NeurIPS%202021-brown)
+* Impact of Pretraining Term Frequencies on Few-Shot Reasoning (Razeghi et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2202.07206)
+  ![](https://img.shields.io/badge/FindingsOfEMNLP%202022-brown)
+  
 
 ### Pre-training Model
 * Emergent abilities of large language models (Wei et al., 2022).
