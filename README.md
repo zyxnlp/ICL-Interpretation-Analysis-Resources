@@ -45,6 +45,9 @@ Researchers in the empirical category focus on probing the factors that influenc
 * On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model (Shin et al., 2022).
   [[Paper]](https://aclanthology.org/2022.naacl-main.380.pdf)
   ![](https://img.shields.io/badge/NAACL%202022-brown)
+* What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers (B Kim., 2021).
+  [[Paper]](  ![](What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers))
+  ![](https://img.shields.io/badge/EMNLP%202021-brown)
 
 ### Pre-training Model
 * Emergent abilities of large language models (Wei et al., 2022).
