@@ -56,7 +56,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202021-brown)
 * Impact of Pretraining Term Frequencies on Few-Shot Reasoning (Razeghi et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2202.07206)
-  ![](https://img.shields.io/badge/FindingsOfEMNLP%202022-brown)
+  ![](https://img.shields.io/badge/Findings Of EMNLP%202022-brown)
   
 
 ### Pre-training Model
