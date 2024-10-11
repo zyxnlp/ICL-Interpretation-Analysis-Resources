@@ -73,19 +73,30 @@ Researchers in the empirical category focus on probing the factors that influenc
 * What can transformers learn in-context? a case study of simple function classes. (Garg et al., 2023).
   [[Paper]](https://arxiv.org/abs/2208.01066)
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
-* n-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
+* In-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2310.15916)
-  ![](https://img.shields.io/badge/Findings_Of_EMNLP%202023-brown)
-
-
-  
-  
+  ![](https://img.shields.io/badge/NeurIPS%202022ffff-brown)
   
 
 ### Pre-training Model
-* Emergent abilities of large language models (Wei et al., 2022).
-  [[Paper]](https://openreview.net/pdf?id=yzkSU5zdwD)
+* Emergent abilities of large language models (Wei et al., 2022).Hoffmann  [[Paper]](https://openreview.net/pdf?id=yzkSU5zdwD)
   ![](https://img.shields.io/badge/TMLR%202022-navy)
+* Training Compute-Optimal Large Language Models (Hoffmann et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2203.15556)
+  ![](https://img.shields.io/badge/NeurIPS%202022-navy)
+* Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al., 2022).
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf)
+  ![](https://img.shields.io/badge/NeurIPS%202023-navy)
+* UL2: Unifying Language Learning Paradigms (Tay et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2205.05131)
+  ![](https://img.shields.io/badge/ICLR%202023-navy)
+* GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS (Kirsch et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2212.04458)
+  ![](https://img.shields.io/badge/NeurIPS_Workshop%202022-navy)
+* In-Context Language Learning: Architectures and Algorithms (Akyürek et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2401.12973)
+  ![](https://img.shields.io/badge/ICML%202024-navy)
+
 
 ### Demonstration Order
 * Fantastically Ordered Prompts and Where to Find Them:
