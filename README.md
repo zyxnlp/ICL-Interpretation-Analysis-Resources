@@ -46,7 +46,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   [[Paper]](https://aclanthology.org/2022.naacl-main.380.pdf)
   ![](https://img.shields.io/badge/NAACL%202022-brown)
 * What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers (B Kim., 2021).
-  [[Paper]](  ![](What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers))
+  [[Paper]](https://arxiv.org/abs/2109.04650)
   ![](https://img.shields.io/badge/EMNLP%202021-brown)
 
 ### Pre-training Model
