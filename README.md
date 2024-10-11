@@ -68,7 +68,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
 * A Bayesian mixture model for term re-occurrence and burstiness (Sarkar et al., 2023).
   [[Paper]](https://oro.open.ac.uk/5003/)
-  ![](https://img.shields.io/badge/CoNLL%200005-brown)
+  ![](https://img.shields.io/badge/CoNLL%2005-brown)
 
   
   
