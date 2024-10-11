@@ -93,19 +93,37 @@ Researchers in the empirical category focus on probing the factors that influenc
 * GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS (Kirsch et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2212.04458)
   ![](https://img.shields.io/badge/NeurIPS_Workshop%202022-navy)
-* In-Context Language Learning: Architectures and Algorithms (Akyürek et al., 2022).
+* In-Context Language Learning: Architectures and Algorithms (Akyürek et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2401.12973)
   ![](https://img.shields.io/badge/ICML%202024-navy)
-* In-context Learning and Induction Heads (Akyürek et al., 2022).
+* In-context Learning and Induction Heads (Olsson et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2209.11895)
   
 
 
 ### Demonstration Order
-* Fantastically Ordered Prompts and Where to Find Them:
-Overcoming Few-Shot Prompt Order Sensitivity (Lu et al., 2022).
+* Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity (Lu et al., 2022).
   [[Paper]](https://aclanthology.org/2022.acl-long.556.pdf)
   ![](https://img.shields.io/badge/ACL%202022-brown)
+* addressing order sensitivity of in-context demonstration examples in causal language models (Xiang et al., 2024).
+  [[Paper]](https://aclanthology.org/2024.findings-acl.386/)
+  ![](https://img.shields.io/badge/Findings_Of_ACL%202024-brown)
+* Calibrate Before Use: Improving Few-shot Performance of Language Models (Zhao et al., 2021).
+  [[Paper]](https://proceedings.mlr.press/v139/zhao21c.html)
+  ![](https://img.shields.io/badge/PMLR%202021-brown)
+* Lost in the Middle: How Language Models Use Long Contexts (Zhao et al., 2024).
+  [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00638/119630)
+  ![](https://img.shields.io/badge/TACL%202024-brown)
+* What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
+  [[Paper]](https://arxiv.org/abs/2101.06804)
+  ![](https://img.shields.io/badge/DeeLIO%202022-brown)
+* What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
+  [[Paper]](https://arxiv.org/abs/2101.06804)
+  ![](https://img.shields.io/badge/DeeLIO%202022-brown)
+
+  
+
+  
 
 ### Input-Label Mapping
 * Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (Min et al., 2022).
