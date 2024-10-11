@@ -66,9 +66,9 @@ Researchers in the empirical category focus on probing the factors that influenc
 * Data distributional properties drive emergent in-context learning in transformers. (Chan et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2205.05055)
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
-* A Bayesian mixture model for term re-occurrence and burstiness (Sarkar et al., 2023).
-  [[Paper]](https://oro.open.ac.uk/5003/)
-  ![](https://img.shields.io/badge/CoNLL%202005-brown)
+* THE PRINCIPLE OF LEAST EFFORT (ZIPF et al., 1949).
+  [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
+  ![](https://img.shields.io/badge/CoNLL%201949-brown)
 
   
   
