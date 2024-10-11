@@ -96,6 +96,9 @@ Researchers in the empirical category focus on probing the factors that influenc
 * In-Context Language Learning: Architectures and Algorithms (Akyürek et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2401.12973)
   ![](https://img.shields.io/badge/ICML%202024-navy)
+* In-context Learning and Induction Heads (Akyürek et al., 2022).
+  [[Paper]](https://arxiv.org/pdf/2209.11895)
+  
 
 
 ### Demonstration Order
