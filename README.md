@@ -55,14 +55,14 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   ![](https://img.shields.io/badge/ICML%202023-navy)
 
 * The Closeness of In-Context Learning and Weight Shifting for Softmax Regression (Li et al., 2023).
-  [[Paper]](https://arxiv.org/pdf/2304.13276.pdf})
+  [[Paper]](https://arxiv.org/pdf/2304.13276.pdf)
 
 * What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
-  [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I})
+  [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I)
   ![](https://img.shields.io/badge/ICLR%202023-green)
 
 * How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations (Guo et al., 2024).
-  [[Paper]](https://openreview.net/pdf?id=ikwEDva1JZ})
+  [[Paper]](https://openreview.net/pdf?id=ikwEDva1JZ)
   ![](https://img.shields.io/badge/ICLR%202024-green)
 
 * In-context Learning and Induction Heads (Olsson et al., 2022).
@@ -107,6 +107,47 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   [[Paper]](https://openreview.net/pdf?id=RdJVFCHjUMI)
   ![](https://img.shields.io/badge/ICLR%202022-green)
 
+* Statistical Inference for Probabilistic Functions of Finite State Markov Chains (Baum and Petrie., 1966).
+  [[Paper]](https://api.semanticscholar.org/CorpusID:120208815)
+
+* Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning (Wang et al., 2023).
+  [[Paper]](https://openreview.net/pdf?id=HCkI1b6ksc)
+  ![](https://img.shields.io/badge/ICML%202023-navy)
+
+* The Learnability of In-Context Learning (Wies et al., 2023).
+  [[Paper]](https://openreview.net/pdf?id=f3JNQd7CHM#:~:text=We%20use%20our%20framework%20in,are%20unchanged%20and%20the%20input)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
+
+* A Latent Space Theory for Emergent Abilities in Large Language Models (Jiang., 2023).
+  [[Paper]](https://arxiv.org/abs/2304.09960)
+
+* What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization (Zhang
+et al., 2023).
+  [[Paper]](https://arxiv.org/abs/2305.19420)
+
+* Bayesian Model Selection and Model Averaging (Wasserman., 2000).
+  [[Journal]](https://api.semanticscholar.org/CorpusID:11273095)
+
+* In-Context Learning through the Bayesian Prism (Panwar et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2306.04891)
+  ![](https://img.shields.io/badge/ICLR%202024-green)  
+
+* What can transformers learn in-context? a case study of simple function classes (Garg et al., 2022).
+  [[Paper]](https://arxiv.org/abs/2208.01066)
+  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+
+* What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
+  [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I)
+  ![](https://img.shields.io/badge/ICLR%202023-green)
+
+* An Information-Theoretic Analysis of In-Context Learning (Jeon et al., 2024).
+  [[Paper]](https://openreview.net/pdf?id=NQn2tYLv5I)
+  ![](https://img.shields.io/badge/ICML%202024-navy)
+
+* In-Context Learning Dynamics with Random Binary Sequences (Bigelow et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2310.17639)
+  ![](https://img.shields.io/badge/ICLR%202024-green)
+
 ## Empirical Analysis of ICL
 Researchers in the empirical category focus on probing the factors that influence the ICL.
 ### Pre-training Data
@@ -138,7 +179,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
 * Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (Yadlowsky et al., 2023).
   [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
-* What can transformers learn in-context? a case study of simple function classes. (Garg et al., 2023).
+* What can transformers learn in-context? a case study of simple function classes. (Garg et al., 2022).
   [[Paper]](https://arxiv.org/abs/2208.01066)
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
 * In-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
