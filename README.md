@@ -73,10 +73,34 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 
 ### Gradient Descent and Meta-Optimization
-* Why Can GPT Learn In-Context?
-Language Models Implicitly Perform Gradient Descent as Meta-Optimizers (Dai et al., 2023).
+* Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers (Dai et al., 2023).
   [[Paper]](https://aclanthology.org/2023.findings-acl.247.pdf)
   ![](https://img.shields.io/badge/ACL%202023-brown)
+
+* The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention (Irie et al., 2022).
+  [[Paper]](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
+
+* Transformers learn in-context by gradient descent (von Oswald et al., 2023).
+  [[Paper]](https://proceedings.mlr.press/v202/von-oswald23a/von-oswald23a.pdf)
+  ![](https://img.shields.io/badge/ICML%202023-navy)
+
+* Uncovering mesa-optimization algorithms in Transformers (von Oswald et al., 2023).
+  [[Paper]](https://arxiv.org/abs/2309.05858)
+
+* In-context Learning and Gradient Descent Revisited (Deutch et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2311.07772v4)
+  ![](https://img.shields.io/badge/NAACL%202024-brown)
+
+* Do pretrained Transformers Learn In-Context by Gradient Descent? (Shen et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2310.08540v5)
+  ![](https://img.shields.io/badge/ICML%202024-navy)
+
+* Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models (Fu et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2310.17086)
+
+* Numerical analysis (Gautschi., 2011).
+  [[Book]](https://books.google.co.uk/books?hl=en&lr=&id=-fgjJF9yAIwC&oi=fnd&pg=PR7&ots=CTbDNPLltY&sig=AkkgsrA_DH502obLg2uXp4W5L6g&redir_esc=y#v=onepage&q&f=false)
 
 ### Bayesian Inference
 * An Explanation of In-context Learning as Implicit Bayesian Inference. (Xie et al., 2022).
