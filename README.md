@@ -22,132 +22,98 @@ Researchers in the theoretical category focus on interpreting the fundamental me
 * A mathematical framework for transformer circuits (Elhage et al., 2021).
   [[Paper]](https://transformer-circuits.pub/2021/framework/index.html)
   ![](https://img.shields.io/badge/AnthropicBlog%202021-olive)
-
 * Attention is All you Need (Vaswani et al., 2017).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
   ![](https://img.shields.io/badge/NeurIPS%202017-purple)
-
 * In-context Learning and Induction Heads (Olsson et al., 2022).
   [[Paper]](https://arxiv.org/abs/2209.11895)
-
 * The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains (Edelman et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2402.11004)
-
 * Schema-learning and rebinding as mechanisms of in-context learning and emergence (Swaminathan et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2311.08360)
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
-
 * Function Vectors in Large Language Models (Todd et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2310.15213)
   ![](https://img.shields.io/badge/ICLR%202024-green)
-
 * Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection (Bai et al., 2023).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
-
 ### Regression Function Learning
 * What can transformers learn in-context? a case study of simple function classes (Garg et al., 2022).
   [[Paper]](https://openreview.net/pdf?id=flNZJ2eOet)
   ![](https://img.shields.io/badge/NeurIPS%202022-purple)
-
 * Transformers as Algorithms: Generalization and Stability in In-context Learning (Li et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=CgB7wCExOF)
   ![](https://img.shields.io/badge/ICML%202023-navy)
-
 * The Closeness of In-Context Learning and Weight Shifting for Softmax Regression (Li et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2304.13276.pdf)
-
 * What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I)
   ![](https://img.shields.io/badge/ICLR%202023-green)
-
 * How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations (Guo et al., 2024).
   [[Paper]](https://openreview.net/pdf?id=ikwEDva1JZ)
   ![](https://img.shields.io/badge/ICLR%202024-green)
-
 * In-context Learning and Induction Heads (Olsson et al., 2022).
   [[Paper]](https://arxiv.org/abs/2209.11895)
-
 * Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection (Bai et al., 2023).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
-
 ### Gradient Descent and Meta-Optimization
 * Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers (Dai et al., 2023).
   [[Paper]](https://aclanthology.org/2023.findings-acl.247.pdf)
   ![](https://img.shields.io/badge/ACL%202023-brown)
-
 * The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention (Irie et al., 2022).
   [[Paper]](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf)
   ![](https://img.shields.io/badge/NeurIPS%202022-purple)
-
 * Transformers learn in-context by gradient descent (von Oswald et al., 2023).
   [[Paper]](https://proceedings.mlr.press/v202/von-oswald23a/von-oswald23a.pdf)
   ![](https://img.shields.io/badge/ICML%202023-navy)
-
 * Uncovering mesa-optimization algorithms in Transformers (von Oswald et al., 2023).
   [[Paper]](https://arxiv.org/abs/2309.05858)
-
 * In-context Learning and Gradient Descent Revisited (Deutch et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2311.07772v4)
   ![](https://img.shields.io/badge/NAACL%202024-brown)
-
 * Do pretrained Transformers Learn In-Context by Gradient Descent? (Shen et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2310.08540v5)
   ![](https://img.shields.io/badge/ICML%202024-navy)
-
 * Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models (Fu et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2310.17086)
-
 * Numerical analysis (Gautschi., 2011).
   [[Book]](https://books.google.co.uk/books?hl=en&lr=&id=-fgjJF9yAIwC&oi=fnd&pg=PR7&ots=CTbDNPLltY&sig=AkkgsrA_DH502obLg2uXp4W5L6g&redir_esc=y#v=onepage&q&f=false)
-
 ### Bayesian Inference
 * An Explanation of In-context Learning as Implicit Bayesian Inference. (Xie et al., 2022).
   [[Paper]](https://openreview.net/pdf?id=RdJVFCHjUMI)
   ![](https://img.shields.io/badge/ICLR%202022-green)
-
 * Statistical Inference for Probabilistic Functions of Finite State Markov Chains (Baum and Petrie., 1966).
   [[Paper]](https://api.semanticscholar.org/CorpusID:120208815)
-
 * Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning (Wang et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=HCkI1b6ksc)
   ![](https://img.shields.io/badge/ICML%202023-navy)
-
 * The Learnability of In-Context Learning (Wies et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=f3JNQd7CHM#:~:text=We%20use%20our%20framework%20in,are%20unchanged%20and%20the%20input)
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
-
 * A Latent Space Theory for Emergent Abilities in Large Language Models (Jiang., 2023).
   [[Paper]](https://arxiv.org/abs/2304.09960)
-
 * What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization (Zhang
 et al., 2023).
   [[Paper]](https://arxiv.org/abs/2305.19420)
-
 * Bayesian Model Selection and Model Averaging (Wasserman., 2000).
   [[Journal]](https://api.semanticscholar.org/CorpusID:11273095)
-
 * In-Context Learning through the Bayesian Prism (Panwar et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2306.04891)
   ![](https://img.shields.io/badge/ICLR%202024-green)  
-
 * What can transformers learn in-context? a case study of simple function classes (Garg et al., 2022).
   [[Paper]](https://arxiv.org/abs/2208.01066)
   ![](https://img.shields.io/badge/NeurIPS%202022-brown)
-
 * What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I)
   ![](https://img.shields.io/badge/ICLR%202023-green)
-
 * An Information-Theoretic Analysis of In-Context Learning (Jeon et al., 2024).
   [[Paper]](https://openreview.net/pdf?id=NQn2tYLv5I)
   ![](https://img.shields.io/badge/ICML%202024-navy)
-
 * In-Context Learning Dynamics with Random Binary Sequences (Bigelow et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2310.17639)
   ![](https://img.shields.io/badge/ICLR%202024-green)
-
 ## Empirical Analysis of ICL
 Researchers in the empirical category focus on probing the factors that influence the ICL.
 ### Pre-training Data
