@@ -23,6 +23,28 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   [[Paper]](https://transformer-circuits.pub/2021/framework/index.html)
   ![](https://img.shields.io/badge/AnthropicBlog%202021-olive)
 
+* Attention is All you Need (Vaswani et al., 2017).
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+  ![](https://img.shields.io/badge/NeurIPS%202017-purple)
+
+* In-context Learning and Induction Heads (Olsson et al., 2022).
+  [[Paper]](https://arxiv.org/abs/2209.11895)
+
+* The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains (Edelman et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2402.11004)
+
+* Schema-learning and rebinding as mechanisms of in-context learning and emergence (Swaminathan et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2311.08360)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
+
+* Function Vectors in Large Language Models (Todd et al., 2024).
+  [[Paper]](https://arxiv.org/pdf/2310.15213)
+  ![](https://img.shields.io/badge/ICLR%202024-green)
+
+* Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection (Bai et al., 2023).
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
+
 ### Regression Function Learning
 * What can transformers learn in-context? a case study of simple function classes (Garg et al., 2022).
   [[Paper]](https://openreview.net/pdf?id=flNZJ2eOet)
