@@ -50,6 +50,28 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   [[Paper]](https://openreview.net/pdf?id=flNZJ2eOet)
   ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 
+* Transformers as Algorithms: Generalization and Stability in In-context Learning (Li et al., 2023).
+  [[Paper]](https://openreview.net/pdf?id=CgB7wCExOF)
+  ![](https://img.shields.io/badge/ICML%202023-navy)
+
+* The Closeness of In-Context Learning and Weight Shifting for Softmax Regression (Li et al., 2023).
+  [[Paper]](https://arxiv.org/pdf/2304.13276.pdf})
+
+* What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
+  [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I})
+  ![](https://img.shields.io/badge/ICLR%202023-green)
+
+* How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations (Guo et al., 2024).
+  [[Paper]](https://openreview.net/pdf?id=ikwEDva1JZ})
+  ![](https://img.shields.io/badge/ICLR%202024-green)
+
+* In-context Learning and Induction Heads (Olsson et al., 2022).
+  [[Paper]](https://arxiv.org/abs/2209.11895)
+
+* Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection (Bai et al., 2023).
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
+
 ### Gradient Descent and Meta-Optimization
 * Why Can GPT Learn In-Context?
 Language Models Implicitly Perform Gradient Descent as Meta-Optimizers (Dai et al., 2023).
