@@ -164,7 +164,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 * UL2: Unifying Language Learning Paradigms (Tay et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2205.05131)
-  ![](https://img.shields.io/badge/ICLR%202023-navy)
+  ![](https://img.shields.io/badge/ICLR%202023-green)
 * GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS (Kirsch et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2212.04458)
   ![](https://img.shields.io/badge/NeurIPS_Workshop%202022-purple)
@@ -206,7 +206,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   [[Paper]](https://arxiv.org/pdf/2303.03846)
 * In-Context Learning Learns Label Relationships but Is Not Conventional Learning (Kossen et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2307.12375)
-  ![](https://img.shields.io/badge/ICLR%202024-brown)
+  ![](https://img.shields.io/badge/ICLR%202024-green)
 * What In-Context Learning “Learns” In-Context: Disentangling Task Recognition and Task Learning (Pan et al., 2023).
   [[Paper]](https://www.proquest.com/openview/6417558c5f0a0d6840ee9442822ab099/1?pq-origsite=gscholar&cbl=18750&diss=y)
 * Dual Operating Modes of In-Context Learning (Lin et al., 2024).
