@@ -191,7 +191,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/TACL%202024-pink)
 * What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
   [[Paper]](https://arxiv.org/abs/2101.06804)
-  ![](https://img.shields.io/badge/DeeLIO%202022-brown)
+  ![](https://img.shields.io/badge/DeeLIO%202022-black)
 
   
 
