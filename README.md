@@ -104,7 +104,7 @@ et al., 2023).
   ![](https://img.shields.io/badge/ICLR%202024-green)  
 * What can transformers learn in-context? a case study of simple function classes (Garg et al., 2022).
   [[Paper]](https://arxiv.org/abs/2208.01066)
-  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 * What learning algorithm is in-context learning? Investigations with linear models (Akyürek et al., 2023).
   [[Paper]](https://openreview.net/pdf?id=0g0X4H8yN4I)
   ![](https://img.shields.io/badge/ICLR%202023-green)
@@ -128,7 +128,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/ACL%202023-brown)
 * Mauve: Measuring the gap between neural text and human text using divergence frontiers (Pillutla et al., 2023).
   [[Paper]](https://arxiv.org/abs/2102.01454)
-  ![](https://img.shields.io/badge/NeurIPS%202021-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202021-purple)
 * Impact of Pretraining Term Frequencies on Few-Shot Reasoning (Razeghi et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2202.07206)
   ![](https://img.shields.io/badge/Findings_Of_EMNLP%202022-brown)
@@ -137,20 +137,20 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/PMLR%202023-brown)
 * Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression (Raventós et al., 2023).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2e10b2c2e1aa4f8083c37dfe269873f8-Abstract-Conference.html)
-  ![](https://img.shields.io/badge/NeurIPS%202023-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 * Data distributional properties drive emergent in-context learning in transformers. (Chan et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2205.05055)
-  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 * THE PRINCIPLE OF LEAST EFFORT (ZIPF et al., 1949).
   [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
 * Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (Yadlowsky et al., 2023).
   [[Paper]](https://wli-zipf.upc.edu/pdf/zipf49-toc.pdf)
 * What can transformers learn in-context? a case study of simple function classes. (Garg et al., 2022).
   [[Paper]](https://arxiv.org/abs/2208.01066)
-  ![](https://img.shields.io/badge/NeurIPS%202022-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 * In-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2310.15916)
-  ![](https://img.shields.io/badge/NeurIPS%202022ffff-brown)
+  ![](https://img.shields.io/badge/NeurIPS%202022ffff-purple)
   
 
 ### Pre-training Model
@@ -158,16 +158,16 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/TMLR%202022-navy)
 * Training Compute-Optimal Large Language Models (Hoffmann et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2203.15556)
-  ![](https://img.shields.io/badge/NeurIPS%202022-navy)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 * Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al., 2022).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf)
-  ![](https://img.shields.io/badge/NeurIPS%202023-navy)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 * UL2: Unifying Language Learning Paradigms (Tay et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2205.05131)
   ![](https://img.shields.io/badge/ICLR%202023-navy)
 * GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS (Kirsch et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2212.04458)
-  ![](https://img.shields.io/badge/NeurIPS_Workshop%202022-navy)
+  ![](https://img.shields.io/badge/NeurIPS_Workshop%202022-purple)
 * In-Context Language Learning: Architectures and Algorithms (Akyürek et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2401.12973)
   ![](https://img.shields.io/badge/ICML%202024-navy)
