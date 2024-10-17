@@ -150,7 +150,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202022-purple)
 * In-Context Learning Creates Task Vectors. ( Hendel et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2310.15916)
-  ![](https://img.shields.io/badge/NeurIPS%202022ffff-purple)
+  ![](https://img.shields.io/badge/NeurIPS%202022-purple)
   
 
 ### Pre-training Model
