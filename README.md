@@ -72,7 +72,7 @@ Researchers in the theoretical category focus on interpreting the fundamental me
   [[Paper]](https://arxiv.org/abs/2309.05858)
 * In-context Learning and Gradient Descent Revisited (Deutch et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2311.07772v4)
-  ![](https://img.shields.io/badge/NAACL%202024-brown)
+  ![](https://img.shields.io/badge/NAACL%202024-red)
 * Do pretrained Transformers Learn In-Context by Gradient Descent? (Shen et al., 2024).
   [[Paper]](https://arxiv.org/pdf/2310.08540v5)
   ![](https://img.shields.io/badge/ICML%202024-navy)
@@ -119,7 +119,7 @@ Researchers in the empirical category focus on probing the factors that influenc
 ### Pre-training Data
 * On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model (Shin et al., 2022).
   [[Paper]](https://aclanthology.org/2022.naacl-main.380.pdf)
-  ![](https://img.shields.io/badge/NAACL%202022-brown)
+  ![](https://img.shields.io/badge/NAACL%202022-red)
 * What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers (B Kim et al., 2021).
   [[Paper]](https://arxiv.org/abs/2109.04650)
   ![](https://img.shields.io/badge/EMNLP%202021-yellow)
