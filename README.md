@@ -122,7 +122,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NAACL%202022-brown)
 * What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers (B Kim et al., 2021).
   [[Paper]](https://arxiv.org/abs/2109.04650)
-  ![](https://img.shields.io/badge/EMNLP%202021-brown)
+  ![](https://img.shields.io/badge/EMNLP%202021-yellow)
 * Understanding In-Context Learning via Supportive Pretraining Data (Han et al., 2023).
   [[Paper]](https://arxiv.org/abs/2306.15091)
   ![](https://img.shields.io/badge/ACL%202023-brown)
@@ -131,7 +131,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/NeurIPS%202021-purple)
 * Impact of Pretraining Term Frequencies on Few-Shot Reasoning (Razeghi et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2202.07206)
-  ![](https://img.shields.io/badge/Findings_Of_EMNLP%202022-brown)
+  ![](https://img.shields.io/badge/Findings_Of_EMNLP%202022-yellow)
 * Large Language Models Struggle to Learn Long-Tail Knowledge (Kandpal et al., 2023).
   [[Paper]](https://proceedings.mlr.press/v202/kandpal23a.html)
   ![](https://img.shields.io/badge/PMLR%202023-brown)
@@ -198,10 +198,10 @@ Researchers in the empirical category focus on probing the factors that influenc
 ### Input-Label Mapping
 * Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (Min et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2202.12837)
-  ![](https://img.shields.io/badge/EMNLP%202022-brown)
+  ![](https://img.shields.io/badge/EMNLP%202022-yellow)
 * Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations (Yoo et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2205.12685)
-  ![](https://img.shields.io/badge/EMNLP%202022-brown)
+  ![](https://img.shields.io/badge/EMNLP%202022-yellow)
 * Larger language models do in-context learning differently (Wei et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2303.03846)
 * In-Context Learning Learns Label Relationships but Is Not Conventional Learning (Kossen et al., 2024).
@@ -220,7 +220,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/ACL%202023-brown)
 * Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning (Si et al., 2023).
   [[Paper]](https://arxiv.org/pdf/2305.14160)
-  ![](https://img.shields.io/badge/EMNLP%202023-brown)
+  ![](https://img.shields.io/badge/EMNLP%202023-yellow)
 
 
 
