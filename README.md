@@ -134,7 +134,7 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/Findings_Of_EMNLP%202022-yellow)
 * Large Language Models Struggle to Learn Long-Tail Knowledge (Kandpal et al., 2023).
   [[Paper]](https://proceedings.mlr.press/v202/kandpal23a.html)
-  ![](https://img.shields.io/badge/PMLR%202023-brown)
+  ![](https://img.shields.io/badge/PMLR%202023-blue)
 * Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression (Raventós et al., 2023).
   [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2e10b2c2e1aa4f8083c37dfe269873f8-Abstract-Conference.html)
   ![](https://img.shields.io/badge/NeurIPS%202023-purple)
@@ -155,7 +155,7 @@ Researchers in the empirical category focus on probing the factors that influenc
 
 ### Pre-training Model
 * Emergent abilities of large language models (Wei et al., 2022).Hoffmann  [[Paper]](https://openreview.net/pdf?id=yzkSU5zdwD)
-  ![](https://img.shields.io/badge/TMLR%202022-navy)
+  ![](https://img.shields.io/badge/TMLR%202022-grey)
 * Training Compute-Optimal Large Language Models (Hoffmann et al., 2022).
   [[Paper]](https://arxiv.org/pdf/2203.15556)
   ![](https://img.shields.io/badge/NeurIPS%202022-purple)
@@ -185,10 +185,10 @@ Researchers in the empirical category focus on probing the factors that influenc
   ![](https://img.shields.io/badge/Findings_Of_ACL%202024-brown)
 * Calibrate Before Use: Improving Few-shot Performance of Language Models (Zhao et al., 2021).
   [[Paper]](https://proceedings.mlr.press/v139/zhao21c.html)
-  ![](https://img.shields.io/badge/PMLR%202021-brown)
+  ![](https://img.shields.io/badge/PMLR%202021-blue)
 * Lost in the Middle: How Language Models Use Long Contexts (Zhao et al., 2024).
   [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00638/119630)
-  ![](https://img.shields.io/badge/TACL%202024-brown)
+  ![](https://img.shields.io/badge/TACL%202024-pink)
 * What Makes Good In-Context Examples for GPT-3? (Liu et al., 2022).
   [[Paper]](https://arxiv.org/abs/2101.06804)
   ![](https://img.shields.io/badge/DeeLIO%202022-brown)
